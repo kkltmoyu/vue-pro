@@ -7,7 +7,9 @@ import router from './router'
 Vue.config.productionTip = false
 
 
+
 console.log("hahaa111222222223333333224444455556666")
+
 
 /* eslint-disable no-new */
 new Vue({
